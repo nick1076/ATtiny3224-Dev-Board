@@ -1,0 +1,25 @@
+Added Component: Designator=SW?(FP-CAS-220TB-MFG)
+Add component (AddParameter): Name = "Actuator Type"; Value = "Slide (Standard)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Material"; Value = "Polyphenylene"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "2000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.212inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.068inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Washable"; Value = "Yes"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Class Member: Failed to add class member : Component B1 LiPo
+Added Member To Class: ClassName=Main Member=Component SW? CAS-220TB

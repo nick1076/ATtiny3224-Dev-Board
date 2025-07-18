@@ -56,7 +56,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -65,6 +65,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYRKFOKT
+
+[Document2]
+DocumentPath=Main.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DVKOARWS
 
 [Configuration1]
 Name=Sources
@@ -1048,6 +1065,28 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=3V3|NetColor=clYellow
+Net2=NetName=5V0|NetColor=$000000BF
+Net3=NetName=BUCK_IN|NetColor=$000083FD
+Net4=NetName=D-|NetColor=$006EA300
+Net5=NetName=D+|NetColor=$006EA300
+Net6=NetName=EXT_5V0|NetColor=$00FF6E6E
+Net7=NetName=FB|NetColor=$006EA300
+Net8=NetName=GND|NetColor=$003E3C44
+Net9=NetName=NetP2_2|NetColor=$006EA300
+Net10=NetName=PG|NetColor=$006EA300
+Net11=NetName=RXD|NetColor=$006EA300
+Net12=NetName=RXD_FTDI|NetColor=$006EA300
+Net13=NetName=SCL|NetColor=$006EA300
+Net14=NetName=SDA|NetColor=$006EA300
+Net15=NetName=SS|NetColor=$006EA300
+Net16=NetName=TXD|NetColor=$006EA300
+Net17=NetName=TXD_FTDI|NetColor=$006EA300
+Net18=NetName=UPDI|NetColor=$006EA300
+Net19=NetName=USB_VCC|NetColor=$006E6EFF
+Net20=NetName=VIN|NetColor=$0089007D
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

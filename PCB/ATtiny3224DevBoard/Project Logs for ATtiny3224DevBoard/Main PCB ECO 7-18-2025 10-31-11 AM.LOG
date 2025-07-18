@@ -1,0 +1,50 @@
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Change Net Name : Old Net Name=NetJ1_A5 New Net Name=CC1
+Change Net Name : Old Net Name=NetJ1_B5 New Net Name=CC2
+Change Net Name : Old Net Name=Q1Gate New Net Name=NetD15_1
+Change Net Name : Old Net Name=Q2Gate New Net Name=NetD14_1
+Change Net Name : Old Net Name=Q3Gate New Net Name=NetD8_1
+Change Net Name : Old Net Name=Q4Gate New Net Name=NetD16_1
+Change Net Name : Old Net Name=Q5Gate New Net Name=NetD13_1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(191, 0, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(253, 131, 0)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(68, 60, 62)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 163, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(125, 0, 137)
+Add Class Member: Failed to add class member : Component B1 LiPo
+Added Member To Class: ClassName=Main Member=Component C5 0.1µF
+Added Member To Class: ClassName=Main Member=Component C6 10nF
+Added Member To Class: ClassName=Main Member=Component C7 10nF
+Added Member To Class: ClassName=Main Member=Component D5 150120GS75000
+Added Member To Class: ClassName=Main Member=Component D11 SS14-E3/61T
+Added Member To Class: ClassName=Main Member=Component D13 1N4148WT-7
+Added Member To Class: ClassName=Main Member=Component D15 1N4148WT-7
+Added Member To Class: ClassName=Main Member=Component Q3 IRLML6402TRPBF
+Added Member To Class: ClassName=Main Member=Component Q4 IRLML6402TRPBF
+Added Member To Class: ClassName=Main Member=Component R3 Rfbt
+Added Member To Class: ClassName=Main Member=Component R4 10kO
+Added Member To Class: ClassName=Main Member=Component R5 5.1kO
+Added Member To Class: ClassName=Main Member=Component R6 Rpg
+Added Member To Class: ClassName=Main Member=Component R7 33kO
+Added Member To Class: ClassName=Main Member=Component R10 1kO
+Added Member To Class: ClassName=Main Member=Component R11 Rfbb
+Added Member To Class: ClassName=Main Member=Component R13 620O
+Added Member To Class: ClassName=Main Member=Component R15 5.1kO
+Added Member To Class: ClassName=Main Member=Component R18 10kO
+Added Member To Class: ClassName=Main Member=Component R19 10kO
+Added Member To Class: ClassName=Main Member=Component R21 10kO
+Added Member To Class: ClassName=Main Member=Component U3 ATTINY3224-XU
