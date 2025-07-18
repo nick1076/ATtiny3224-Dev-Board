@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=USB_VCC Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-A1-B12
+Removed Pin From Net: NetName=USB_VCC Pin=J2-A4-B9
+Removed Pin From Net: NetName=D+ Pin=J2-A6
+Removed Pin From Net: NetName=D- Pin=J2-A7
+Removed Pin From Net: NetName=GND Pin=J2-B1-A12
+Removed Pin From Net: NetName=USB_VCC Pin=J2-B4-A9
+Removed Pin From Net: NetName=D+ Pin=J2-B6
+Removed Pin From Net: NetName=D- Pin=J2-B7
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R16-2
+Removed Member From Class: ClassName=Main2 Member=C6
+Removed Member From Class: ClassName=Main2 Member=J2
+Removed Member From Class: ClassName=Main2 Member=R14
+Removed Member From Class: ClassName=Main2 Member=R16
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Added Pin To Net: NetName=D+ Pin=J1-A6
+Added Pin To Net: NetName=D- Pin=J1-A7
+Added Pin To Net: NetName=D+ Pin=J1-B6
+Added Pin To Net: NetName=D- Pin=J1-B7
+Add Class Member: Failed to add class member : Component B1 LiPo

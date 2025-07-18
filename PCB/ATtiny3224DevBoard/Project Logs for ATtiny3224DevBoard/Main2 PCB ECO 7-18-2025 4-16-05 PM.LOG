@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=EXT_5V0 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=3V3 Pin=P7-1
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Member From Class: ClassName=Main2 Member=P6
+Removed Member From Class: ClassName=Main2 Member=P7
+Add Pin To Net: Unknown Pin: Pin B1-0
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Class Member: Failed to add class member : Component B1 LiPo
